@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{115ACA5C-58E4-4077-8D6F-7927874A6051}|Proyecto_Smash.csproj|c:\\users\\trave\\desktop\\universidad\\codigos\\proyecto_smash\\models\\smashestadistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115ACA5C-58E4-4077-8D6F-7927874A6051}|Proyecto_Smash.csproj|solutionrelative:models\\smashestadistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115ACA5C-58E4-4077-8D6F-7927874A6051}|Proyecto_Smash.csproj|c:\\users\\trave\\desktop\\universidad\\codigos\\proyecto_smash\\models\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115ACA5C-58E4-4077-8D6F-7927874A6051}|Proyecto_Smash.csproj|solutionrelative:models\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115ACA5C-58E4-4077-8D6F-7927874A6051}|Proyecto_Smash.csproj|c:\\users\\trave\\desktop\\universidad\\codigos\\proyecto_smash\\models\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115ACA5C-58E4-4077-8D6F-7927874A6051}|Proyecto_Smash.csproj|solutionrelative:models\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115ACA5C-58E4-4077-8D6F-7927874A6051}|Proyecto_Smash.csproj|c:\\users\\trave\\desktop\\universidad\\codigos\\proyecto_smash\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115ACA5C-58E4-4077-8D6F-7927874A6051}|Proyecto_Smash.csproj|solutionrelative:partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115ACA5C-58E4-4077-8D6F-7927874A6051}|Proyecto_Smash.csproj|c:\\users\\trave\\desktop\\universidad\\codigos\\proyecto_smash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115ACA5C-58E4-4077-8D6F-7927874A6051}|Proyecto_Smash.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115ACA5C-58E4-4077-8D6F-7927874A6051}|Proyecto_Smash.csproj|c:\\users\\trave\\desktop\\universidad\\codigos\\proyecto_smash\\exceptions\\smashexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115ACA5C-58E4-4077-8D6F-7927874A6051}|Proyecto_Smash.csproj|solutionrelative:exceptions\\smashexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115ACA5C-58E4-4077-8D6F-7927874A6051}|Proyecto_Smash.csproj|c:\\users\\trave\\desktop\\universidad\\codigos\\proyecto_smash\\ligero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115ACA5C-58E4-4077-8D6F-7927874A6051}|Proyecto_Smash.csproj|solutionrelative:ligero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115ACA5C-58E4-4077-8D6F-7927874A6051}|Proyecto_Smash.csproj|c:\\users\\trave\\desktop\\universidad\\codigos\\proyecto_smash\\pesado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115ACA5C-58E4-4077-8D6F-7927874A6051}|Proyecto_Smash.csproj|solutionrelative:pesado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115ACA5C-58E4-4077-8D6F-7927874A6051}|Proyecto_Smash.csproj|c:\\users\\trave\\desktop\\universidad\\codigos\\proyecto_smash\\zoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115ACA5C-58E4-4077-8D6F-7927874A6051}|Proyecto_Smash.csproj|solutionrelative:zoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 367,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Zoner.cs",
+              "DocumentMoniker": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\Zoner.cs",
+              "RelativeDocumentMoniker": "Zoner.cs",
+              "ToolTip": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\Zoner.cs",
+              "RelativeToolTip": "Zoner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:17:11.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmashEstadistica.cs",
+              "DocumentMoniker": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\Models\\SmashEstadistica.cs",
+              "RelativeDocumentMoniker": "Models\\SmashEstadistica.cs",
+              "ToolTip": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\Models\\SmashEstadistica.cs",
+              "RelativeToolTip": "Models\\SmashEstadistica.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:09:57.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemigo.cs",
+              "DocumentMoniker": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\Models\\Enemigo.cs",
+              "RelativeDocumentMoniker": "Models\\Enemigo.cs",
+              "ToolTip": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\Models\\Enemigo.cs",
+              "RelativeToolTip": "Models\\Enemigo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:09:56.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SmashException.cs",
+              "DocumentMoniker": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\Exceptions\\SmashException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\SmashException.cs",
+              "ToolTip": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\Exceptions\\SmashException.cs",
+              "RelativeToolTip": "Exceptions\\SmashException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:09:53.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pesado.cs",
+              "DocumentMoniker": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\Pesado.cs",
+              "RelativeDocumentMoniker": "Pesado.cs",
+              "ToolTip": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\Pesado.cs",
+              "RelativeToolTip": "Pesado.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwAYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:04:20.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ligero.cs",
+              "DocumentMoniker": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\Ligero.cs",
+              "RelativeDocumentMoniker": "Ligero.cs",
+              "ToolTip": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\Ligero.cs",
+              "RelativeToolTip": "Ligero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T23:12:40.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Partida.cs",
+              "DocumentMoniker": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\Partida.cs",
+              "RelativeDocumentMoniker": "Partida.cs",
+              "ToolTip": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\Partida.cs",
+              "RelativeToolTip": "Partida.cs",
+              "ViewState": "AgIAAFcBAAAAAAAAAAAwwF8BAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T22:21:35.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\Models\\Personaje.cs",
+              "RelativeDocumentMoniker": "Models\\Personaje.cs",
+              "ToolTip": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\Models\\Personaje.cs",
+              "RelativeToolTip": "Models\\Personaje.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:25:45.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\trave\\Desktop\\universidad\\Codigos\\Proyecto_Smash\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:17:46.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

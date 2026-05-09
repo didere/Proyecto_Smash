@@ -1,0 +1,3 @@
+{"Nombre":"Fox","Tipo":"Ligero","Ataque":35,"Rapidez":10,"Peso":20,"Vida":90,"VidaMaxima":90,"ProbEsquivar":0.25,"Victorias":1}
+{"Nombre":"Dr mario","Tipo":"Pesado","Ataque":95,"Rapidez":2.5,"Peso":120,"Vida":180,"VidaMaxima":180,"ProbEsquivar":0.05,"Victorias":3}
+{"Nombre":"Donkey kong","Tipo":"Pesado","Ataque":95,"Rapidez":2.5,"Peso":120,"Vida":-28,"VidaMaxima":180,"ProbEsquivar":0.05,"Victorias":5}

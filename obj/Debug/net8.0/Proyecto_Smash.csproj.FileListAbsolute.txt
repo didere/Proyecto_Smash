@@ -1,0 +1,14 @@
+C:\Users\trave\Desktop\universidad\Codigos\Proyecto_Smash\bin\Debug\net8.0\Proyecto_Smash.exe
+C:\Users\trave\Desktop\universidad\Codigos\Proyecto_Smash\bin\Debug\net8.0\Proyecto_Smash.deps.json
+C:\Users\trave\Desktop\universidad\Codigos\Proyecto_Smash\bin\Debug\net8.0\Proyecto_Smash.runtimeconfig.json
+C:\Users\trave\Desktop\universidad\Codigos\Proyecto_Smash\bin\Debug\net8.0\Proyecto_Smash.dll
+C:\Users\trave\Desktop\universidad\Codigos\Proyecto_Smash\bin\Debug\net8.0\Proyecto_Smash.pdb
+C:\Users\trave\Desktop\universidad\Codigos\Proyecto_Smash\obj\Debug\net8.0\Proyecto_Smash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trave\Desktop\universidad\Codigos\Proyecto_Smash\obj\Debug\net8.0\Proyecto_Smash.AssemblyInfoInputs.cache
+C:\Users\trave\Desktop\universidad\Codigos\Proyecto_Smash\obj\Debug\net8.0\Proyecto_Smash.AssemblyInfo.cs
+C:\Users\trave\Desktop\universidad\Codigos\Proyecto_Smash\obj\Debug\net8.0\Proyecto_Smash.csproj.CoreCompileInputs.cache
+C:\Users\trave\Desktop\universidad\Codigos\Proyecto_Smash\obj\Debug\net8.0\Proyecto_Smash.dll
+C:\Users\trave\Desktop\universidad\Codigos\Proyecto_Smash\obj\Debug\net8.0\refint\Proyecto_Smash.dll
+C:\Users\trave\Desktop\universidad\Codigos\Proyecto_Smash\obj\Debug\net8.0\Proyecto_Smash.pdb
+C:\Users\trave\Desktop\universidad\Codigos\Proyecto_Smash\obj\Debug\net8.0\Proyecto_Smash.genruntimeconfig.cache
+C:\Users\trave\Desktop\universidad\Codigos\Proyecto_Smash\obj\Debug\net8.0\ref\Proyecto_Smash.dll
