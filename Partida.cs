@@ -11,9 +11,11 @@ namespace TeamAltF4.SuperSmash
     /// </summary>
     class Partida
     {
+        #region Rutas y variables
         private string rutaCsv  = "historial.csv";
         private string rutaJson = "historial.json";
         private List<Personaje> historial = new List<Personaje>();
+        #endregion
         public Partida()
         {
             if (File.Exists(rutaCsv))
@@ -71,6 +73,7 @@ namespace TeamAltF4.SuperSmash
             }
             while (opcion != 0);
         }
+        #region Metodos
         /// <summary>
         /// Enseña el menu de el historial, donde el usuario puede manipular el historial de el juego
         /// </summary>
@@ -586,5 +589,6 @@ namespace TeamAltF4.SuperSmash
                     historial.Add(p);
             }
         }
+        #endregion
     }
 }

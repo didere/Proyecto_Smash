@@ -11,6 +11,7 @@ namespace TeamAltF4.SuperSmash
     class Ligero : Personaje
     {
         private Random random = new Random();
+        #region Metodos sobrescritos
         public override void Jab(Personaje jugador, Personaje objetivo)
         {
             double tirada = random.NextDouble();
@@ -64,5 +65,6 @@ namespace TeamAltF4.SuperSmash
             }
             Console.WriteLine("  Total del combo: " + total + " de dano");
         }
+        #endregion
     }
 }

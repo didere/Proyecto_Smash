@@ -9,7 +9,7 @@ namespace TeamAltF4.SuperSmash
     class Pesado : Personaje
     {
         private Random random = new Random();
-
+        #region Metodos sobrescritos
         public override void Jab(Personaje jugador, Personaje objetivo)
         {
             double tirada = random.NextDouble();
@@ -55,5 +55,6 @@ namespace TeamAltF4.SuperSmash
             objetivo.Vida -= dano;
             Console.WriteLine(jugador.Nombre + " activa SMASH DEVASTADOR y causa " + dano + " de dano brutal!");
         }
+        #endregion
     }
 }

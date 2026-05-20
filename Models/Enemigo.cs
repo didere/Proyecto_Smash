@@ -13,6 +13,7 @@ namespace TeamAltF4.SuperSmash
     static class Enemigo
     {
         private static Random random = new Random();
+        #region Metodos
         /// <summary>
         /// Metodo que devuelve una lista de enemigos predefinidos con sus atributos.
         /// </summary>
@@ -44,5 +45,6 @@ namespace TeamAltF4.SuperSmash
             objetivo.Vida -= dano;
             Console.WriteLine(enemigo.Nombre + " ataca a " + objetivo.Nombre + " y causa " + dano + " de dano");
         }
+        #endregion
     }
 }

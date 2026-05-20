@@ -9,6 +9,7 @@ namespace Proyecto_Smash.Models
     /// </summary>
     class Personaje : IComparable<Personaje>
     {
+        #region Atributos
         private string nombre;
         private string tipo;
         private int ataque;
@@ -18,6 +19,8 @@ namespace Proyecto_Smash.Models
         private int vidaMaxima;
         private double probEsquivar;
         private int victorias;
+        #endregion
+        #region Propiedades
         public string Nombre
         {
             get => nombre;
@@ -103,6 +106,8 @@ namespace Proyecto_Smash.Models
                 victorias = value;
             }
         }
+        #endregion
+        #region Constructores
         /// <summary>
         /// Clase constructora del personaje, que recibe los atributos basicos del personaje y los asigna a las propiedades correspondientes.
         /// </summary>
@@ -130,6 +135,8 @@ namespace Proyecto_Smash.Models
         /// que requiere un constructor sin parametros para poder deserializar los objetos correctamente.
         /// </summary>
         public Personaje() { }
+        #endregion
+        #region Metodos
         /// <summary>
         /// Clase que devuelve un resumen de las estadisticas del personaje, incluyendo su tipo, nombre, ataque, rapidez, peso, vida actual y maxima, probabilidad de esquivar y victorias.
         /// </summary>
@@ -181,5 +188,6 @@ namespace Proyecto_Smash.Models
         /// <param name="personaje">El personaje que realiza el ataque</param>
         /// <param name="objetivo">El personaje que recibe el ataque</param>
         public virtual void FinalSmash(Personaje personaje, Personaje objetivo) { }
+        #endregion
     }
 }

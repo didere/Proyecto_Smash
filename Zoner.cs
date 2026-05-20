@@ -9,6 +9,7 @@ namespace TeamAltF4.SuperSmash
     class Zoner : Personaje
     {
         private Random random = new Random();
+        #region Metodos sobreescritos
         public override void Jab(Personaje jugador, Personaje objetivo)
         {
             double tirada = random.NextDouble();
@@ -55,5 +56,6 @@ namespace TeamAltF4.SuperSmash
             jugador.Vida += curacion;
             Console.WriteLine(jugador.Nombre + " activa Smash Final: " + dano + " de dano y recupera " + curacion + " de vida.");
         }
+        #endregion
     }
 }
