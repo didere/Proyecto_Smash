@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proyecto_Smash")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c2a912111afb5719caf0693c825198e7f0f3e4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proyecto_Smash")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proyecto_Smash")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
